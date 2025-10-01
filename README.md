@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GokalpEren
-- I'm a freshman at Bilkent University
-- Interests: Art, philosophy
+- I'm a computer science student at Bilkent University
 
 <!---
 GokalpEren/GokalpEren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
